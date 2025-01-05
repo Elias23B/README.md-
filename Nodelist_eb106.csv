@@ -1,0 +1,28 @@
+id,name,party,sector,country,type
+UVL,Ursula von der Leyen,CDU,Politik,Deutschland,1
+LK,Lars Klingbeil,SPD,Politik,Deutschland,1
+NR,Norbert Röttgen,CDU,Politik,Deutschland,1
+SW,Sahra Wagenknecht,Die Linke,Politik,Deutschland,1
+CS,Constanze Stelzenmüller,,Wissenschaft,USA,1
+CL,Christian Lindner,FDP,Politik,Deutschland,1
+KS,Karl Schlögel,,Wissenschaft,Deutschland,1
+LM,Ljudmyla Melnyk,,Politik,Ukraine,1
+KD,Kristina Dunz,,Journalismus,Deutschland,1
+EL,Egils Levits,,Politik,Lettland,1
+AB,Annalena Baerbock,Gruene,Politik,Deutschland,1
+FT,Frans Timmermans,,Politik,Niederlande,1
+AM,Alexander Graf Lambsdorff,FDP,Politik,Deutschland,1
+ER,Egon Ramms,,Militär,Deutschland,1
+RH,Robert Habeck,Gruene,Politik,Deutschland,1
+CM,Claudia Major,,Politik,Deutschland,1
+KP,Katja Petrowskaja,,Journalismus,Ukraine,1
+RK,Roderich Kiesewetter,CDU,Politik,Deutschland,1
+CDU,CDU,CDU,,,2
+SPD,SPD,SPD,,,2
+Linke ,Die Linke ,Linke,,,2
+FDP,FDP,FDP,,,2
+Gruene,Gruene,Gruene,,,2
+500,02_20 Keine Entspannung,,,Deutschland,2
+501,02_27 Putin führt Krieg,,,Deutschland,2
+502,03_06 Krieg gegen die Ukraine,,,Deutschland,2
+503,03_13 Angriff auf die Ukraine,,,Deutschland,2
